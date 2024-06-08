@@ -1,0 +1,31 @@
+/* Style for the body */
+body {
+    background-color: #f0f0f0; /* Light grey background */
+    color: #0000FF; /* Blue text */
+}
+
+/* Style for the navigation bar */
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/* Style for the footer */
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/* Style for the meme image */
+#memeImage {
+    margin-right: 200px;
+}
+
+/* Style for the header */
+header {
+    text-align: center;
+}
+
